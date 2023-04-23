@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Debt-app/static/css/main.a67f6b82.chunk.css",
+    "main.js": "/Debt-app/static/js/main.c83aaead.chunk.js",
+    "main.js.map": "/Debt-app/static/js/main.c83aaead.chunk.js.map",
+    "runtime-main.js": "/Debt-app/static/js/runtime-main.13fdfbc7.js",
+    "runtime-main.js.map": "/Debt-app/static/js/runtime-main.13fdfbc7.js.map",
+    "static/js/2.fa82c6c8.chunk.js": "/Debt-app/static/js/2.fa82c6c8.chunk.js",
+    "static/js/2.fa82c6c8.chunk.js.map": "/Debt-app/static/js/2.fa82c6c8.chunk.js.map",
+    "index.html": "/Debt-app/index.html",
+    "static/css/main.a67f6b82.chunk.css.map": "/Debt-app/static/css/main.a67f6b82.chunk.css.map",
+    "static/js/2.fa82c6c8.chunk.js.LICENSE.txt": "/Debt-app/static/js/2.fa82c6c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13fdfbc7.js",
+    "static/js/2.fa82c6c8.chunk.js",
+    "static/css/main.a67f6b82.chunk.css",
+    "static/js/main.c83aaead.chunk.js"
+  ]
+}
